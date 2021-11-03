@@ -7,13 +7,7 @@ Tis is a neighborhood app where a user must signup first, be able to join a hood
 join a hood, one can see businesses and posts in only that wood they belong to.  
 <!-- ##  Live Link  
  Click [View Site](https://hood-watchapp.herokuapp.com)  to visit the site -->
-  
-## Screenshots 
-###### Home page
- 
-<img src="https://ucarecdn.com/457f313d-4181-4d86-aca7-a91151d80707/hood.png">
-
- 
+   
 ## User Story  
   
 * Sign in with the application to start using.
@@ -29,7 +23,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
-https://github.com/Owiti-Charles/HoodWatch.git
+https://github.com/kelvinhovinho/neighbourhood.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
