@@ -1,6 +1,6 @@
 # HomeWatch
 
->[Owiti-Charles](https://github.com/Owiti-Charles)  
+>[Owiti-Charles](https://github.com/kelvinhovinho)  
   
 # Description  
 Tis is a neighborhood app where a user must signup first, be able to join a hood owned by the hood admin, and once you 
