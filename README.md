@@ -70,4 +70,4 @@ Open the application on your browser `127.0.0.1:8000`.
 ## License 
 
 * [* LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2019 **KELVIN ADAMBA**
